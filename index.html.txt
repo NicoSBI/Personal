@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Nombre - Portafolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tu Nombre</h1>
+        <p>Desarrollador Web</p>
+    </header>
+
+    <section id="about">
+        <h2>Sobre mí</h2>
+        <p>Tu descripción personal aquí.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Experiencia</h2>
+        <ul>
+            <li>
+                <h3>Trabajo Actual</h3>
+                <p>Descripción del trabajo actual.</p>
+            </li>
+            <!-- Puedes agregar más experiencias aquí -->
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Proyectos</h2>
+        <div class="project">
+            <h3>Nombre del Proyecto</h3>
+            <p>Descripción del proyecto.</p>
+            <img src="project_image.jpg" alt="Proyecto Imagen">
+        </div>
+        <!-- Puedes agregar más proyectos aquí -->
+    </section>
+
+    <footer>
+        <p>Contacto: tu@email.com</p>
+    </footer>
+</body>
+</html>
